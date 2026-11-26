@@ -26,8 +26,8 @@
     <rect x="-34" y="-34" width="68" height="46" rx="8" fill="none" stroke="#ff6ec7" stroke-width="3"/>
     <path d="M34 -20 L56 -32 V10 L34 -2Z" fill="none" stroke="#ff6ec7" stroke-width="3" stroke-linejoin="round"/>
   </g>
-  <text x="80" y="160" font-family="Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">After Effects</text>
-  <text x="80" y="228" font-family="Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">AI Motion Assistant</text>
+  <text x="80" y="190" font-family="Helvetica, Arial, sans-serif" font-size="92" font-weight="700" fill="#ffffff">Whipcrane</text>
+  <text x="80" y="238" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#ffffff">AI motion assistant for After Effects</text>
   <text x="80" y="275" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#c9c3ff">Concept stage. No working code yet.</text>
   <g transform="translate(80 305)">
     <rect width="250" height="34" rx="17" fill="#241a52" stroke="#7c5cff"/>
