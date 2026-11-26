@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="After Effects AI Motion Assistant, concept stage" width="100%">
+  <img src="assets/banner.svg?v=2" alt="After Effects AI Motion Assistant, concept stage" width="100%">
 </p>
 
 > **Status: concept stage.** This repository holds the vision and the written specification only. **There is no working code yet**, and nothing below describes an existing feature.
