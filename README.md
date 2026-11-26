@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rigwink-banner.svg" alt="Rigwink, AI motion assistant for After Effects, experimental prototype" width="100%">
+  <img src="assets/rigwink-banner-v2.svg" alt="Rigwink, AI motion assistant for After Effects, experimental prototype" width="100%">
 </p>
 
 > **Status: experimental prototype, never run inside After Effects yet.** The code is covered by 135 Node tests that run against a mock of the After Effects scripting API. The mock checks that API calls are consistent. It does not prove real rendering or behavior in After Effects. The first step is a manual trial in After Effects (see `docs/ESSAI.md`, in French).
