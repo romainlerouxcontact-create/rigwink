@@ -4,7 +4,9 @@
 
 > **Status: concept stage.** This repository holds the vision and the written specification only. **There is no working code yet**, and nothing below describes an existing feature.
 
-# After Effects AI Motion Assistant
+# Whipcrane
+
+*An AI motion assistant for After Effects.*
 
 An AI agent that lives in a dockable panel inside Adobe After Effects and aims to help motion designers go from a brief or a reference to an **editable** animation.
 
